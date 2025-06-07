@@ -17,14 +17,15 @@ I'm a third-year Data Engineering student at HCMUTE, Vietnam, passionate about b
 
 ---
 
-<h2 align="left">Connect with me:</h2>  
+### Connect with me
 <p align="left">  
 <a href="https://www.linkedin.com/in/huy-dataguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huyhocdata" height="30" width="40" /></a>  
 <a href="https://www.facebook.com/quochuy.story" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100012067900880" height="30" width="40" /></a>  
 </p>  
 
 ---
-<h2 align="left">Tech Stack</h2>
+
+### Tech Stack
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
