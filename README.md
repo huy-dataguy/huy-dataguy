@@ -10,7 +10,7 @@ I'm a third-year Data Engineering student at HCMUTE, Vietnam, passionate about b
 
 🚀 What I'm working on:
 
-- Designing and optimizing real-time data streaming systems data lakehouses and warehouse
+- Designing and optimizing real-time data streaming systems data lakehouse and warehouse
 - Building efficient data pipelines with Apache Spark, Kafka, and Delta Lake
 - Exploring MLOps for deploying machine learning models
 - Experimenting with full-stack MERN applications
