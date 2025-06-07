@@ -2,7 +2,7 @@
 
 🎓 Passionate Data Engineering Student
 
-I'm a third-year Data Engineering student at HCMUTE, Vietnam, passionate about building scalable data pipelines, real-time streaming systems, and exploring modern Big Data technologies. I focus on mastering Big Data technologies, real-time streaming, data warehouse and data lakehouse architectures, while also exploring full-stack development (MERN) to complement my data engineering skills.
+I'm a third-year Data Engineering student at HCMUTE, Vietnam, passionate about building scalable data pipelines, real-time streaming systems, and exploring modern Big Data technologies. I focus on mastering Big Data technologies, real-time streaming, data lakehouse and warehouse architectures, while also exploring full-stack development (MERN) to complement my data engineering skills.
 
 🔭 I’m currently studying at **HCMUTE (Ho Chi Minh City University of Technology and Education)**
 
@@ -10,7 +10,7 @@ I'm a third-year Data Engineering student at HCMUTE, Vietnam, passionate about b
 
 🚀 What I'm working on:
 
-- Designing and optimizing real-time data streaming systems data and lakehouses
+- Designing and optimizing real-time data streaming systems data lakehouses and warehouse
 - Building efficient data pipelines with Apache Spark, Kafka, and Delta Lake
 - Exploring MLOps for deploying machine learning models
 - Experimenting with full-stack MERN applications
