@@ -20,7 +20,7 @@ I'm a final-year Data Engineering student at HCMUTE, Vietnam, passionate about b
 ## Connect with me
 <p align="left">  
 <a href="https://www.linkedin.com/in/huy-dataguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huyhocdata" height="30" width="40" /></a>  
-<a href="https://www.facebook.com/quochuy.story" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100012067900880" height="30" width="40" /></a>  
+<a href="https://www.facebook.com/quochuy.dataguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100012067900880" height="30" width="40" /></a>  
 </p>  
 
 ---
