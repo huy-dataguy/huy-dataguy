@@ -50,6 +50,5 @@ I'm a final-year Data Engineering student at HCMUTE, Vietnam, passionate about b
 ## Activity
 ![huy-dataguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=huy-dataguy&theme=tokyonight)
 
-
 [![huy-dataguy's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huy-dataguy&area=true&theme=github-compact&bg_color=000000)](https://github.com/huy-dataguy)
 
