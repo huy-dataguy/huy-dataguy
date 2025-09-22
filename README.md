@@ -1,5 +1,9 @@
 # Hi there 👋, I'm Nguyễn Quốc Huy
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=huy-dataguy&label=Profile%20views&color=0e75b6&style=flat-square" alt="huy-dataguy" />
+</p>
+
 🎓 Passionate Data Engineering Student
 
 I'm a final-year Data Engineering student at HCMUTE, Vietnam, passionate about building scalable data pipelines, real-time streaming systems, and exploring modern Big Data technologies. I focus on mastering Big Data technologies, real-time streaming, data lakehouse and warehouse architectures, while also exploring full-stack development (MERN) to complement my data engineering skills.
