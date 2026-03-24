@@ -16,7 +16,7 @@ I'm a final-year Data Engineering student at HCMUTE, Vietnam, passionate about b
 
 - Designing and optimizing real-time data streaming systems data lakehouse and warehouse
 - Building efficient data pipelines with Apache Spark, Kafka, and Delta Lake
-- Exploring MLOps for deploying machine learning models
+- Building RAG AI system
 - Experimenting with full-stack MERN applications
 
 ---
