@@ -18,7 +18,9 @@ I'm a final-year Data Engineering student at HCMUTE, Vietnam, passionate about b
 - Building efficient data pipelines with Apache Spark, Kafka, and Delta Lake
 - Building RAG AI system
 - Experimenting with full-stack MERN applications
+  
 💼 Looking for Internship / Fresher opportunities in Data & AI Engineering.
+
 ---
 
 ## Connect with me
